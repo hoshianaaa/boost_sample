@@ -1,3 +1,5 @@
+// 引用: https://www.mathkuro.com/c-cpp/boost/how-to-use-boost-thread/
+
 #include <iostream>
 #include <boost/thread.hpp>
 
